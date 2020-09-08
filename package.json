@@ -1,0 +1,29 @@
+{
+  "name": "@betahuhn/eslint-config",
+  "version": "0.0.1",
+  "authors": [
+    "Maximilian Schiller <schiller@mxis.ch>"
+  ],
+  "description": "ESLint configuration for my personal projects",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "config",
+    "lint",
+    "linter"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/betahuhn/eslint-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/betahuhn/eslint-config.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-vue": "^7.0.0-beta.3"
+  }
+}
